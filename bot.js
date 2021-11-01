@@ -15,7 +15,7 @@ client2.login(process.env.TOKEN);
 
 client.on('ready', async() => {
 var server = "904599157350744074"; 
-var channel = "904600119079489566";
+var channel = " 904600119079489566 ";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send(' $hunt gods ')
     },6000);
@@ -23,7 +23,7 @@ var channel = "904600119079489566";
           
  client2.on('ready', async() => {
 var server = "904599157350744074"; 
-var channel = "904600216852889710";
+var channel = " 904600216852889710 ";
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send(' $roll ')
     },6000);

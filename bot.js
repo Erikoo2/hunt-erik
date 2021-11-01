@@ -21,7 +21,7 @@ var channel = "904600119079489566";
     },6000);
 });
           
- client.on('ready', async() => {
+ client2.on('ready', async() => {
 var server = "904599157350744074"; 
 var channel = "904600216852889710";
     setInterval(()=>{
